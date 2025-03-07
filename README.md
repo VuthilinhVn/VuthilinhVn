@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Linh Vu (Lara)
+🌱 I’m currently learning **Computer Vision**
+⚡ Fun fact: I am not a smart student 
 
 <!--
 **VuthilinhVn/VuthilinhVn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
