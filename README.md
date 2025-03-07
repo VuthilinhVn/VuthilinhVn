@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Linh Vu (Lara)
 🌱 I’m currently learning **Computer Vision**
+
+
 ⚡ Fun fact: I am not a smart student 
 
 <!--
